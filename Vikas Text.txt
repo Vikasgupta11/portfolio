@@ -1,0 +1,13 @@
+All Modules to Install before Going with this project as node_module folder is is not push in this directory
+
+1) npm i @emailjs/browser ...{use to implement contact form}
+2)npm i @fortawesome/free-brands-svg-icons ...
+3)npm i @fortawesome/free-solid-svg-icons ...{For Navigation on the left Side}
+4) npm i @fortawesome/react-fontawesome
+5) npm i animate.css ...{For animating the object and fonts}
+6) npm i gsap-trial...{For advance animation}
+7) npm i loaders.css ..{for Loading}
+8) npm i react-leaflet
+9) npm i react-loaders
+10) npm i react-router-dom
+11)npm i sass ..{use  for Styling}
